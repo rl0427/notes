@@ -1,3 +1,0 @@
-# notes
-
-hello, test
